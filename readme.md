@@ -3,4 +3,4 @@
 
 - **Nombre Completo** : *Marcelo Alejandro Rodriguez Santi*
 - **Legajo** : *176.509-7*
-- **Descripción** : *Hola, como pueden leer arriba me llamo Marcelo, tengo 21 años y lo que espero para este año es APROBAR la materia.*
+- **Descripción** : *Hola, me llamo Marcelo, tengo 21 años, me gusta jugar futbol, ver peliculas/series y a veces dibujo (aunque soy malo).*
